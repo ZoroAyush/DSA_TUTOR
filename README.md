@@ -1,4 +1,4 @@
-# 🧠 Interactive DSA AI Tutor
+# Interactive DSA AI Tutor
 
 _A Generative AI-powered teaching assistant for Data Structures and Algorithms._
 
@@ -12,7 +12,7 @@ This mini-project is a fully interactive web application designed to act as a st
 
 Unlike standard chatbots that simply provide the final code to a problem, this application uses **Google's Gemini 2.5 Flash** model combined with rigorous system instructions to guide users through line-by-line execution, time/space complexity analysis, and conceptual hints—mimicking the experience of a technical interview or a structured A2Z DSA sheet.
 
-## 🚀 Technology Stack
+## Technology Stack
 
 - **Python 3** (Core Backend Logic)
 - **Streamlit** (Web Interface & Session State Management)
